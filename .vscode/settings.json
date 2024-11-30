@@ -1,0 +1,8 @@
+{
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "fstream": "cpp",
+        "ostream": "cpp",
+        "tuple": "cpp"
+    }
+}
